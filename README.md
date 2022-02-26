@@ -1,2 +1,1 @@
 # bird
-🍀 bird is flying.
